@@ -99,3 +99,7 @@ To build an image using a different base, supply it with a parameter:
 ```bash
 make deb-docker base=debian:latest
 ```
+
+#### debian case where PG version is not the newest
+
+see the file : debian_postgresql_10_installation_notes.t
