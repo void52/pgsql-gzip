@@ -102,4 +102,4 @@ make deb-docker base=debian:latest
 
 #### debian case where PG version is not the newest
 
-see the file : debian_postgresql_10_installation_notes.t
+see : [debian_postgresql_10_installation_notes.t](https://github.com/void52/pgsql-gzip/blob/master/debian_postgresql_10_installation_notes.t)
